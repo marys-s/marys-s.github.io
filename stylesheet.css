@@ -5,7 +5,28 @@ body {
 }
 
 h1 {
-
     text-align: center;
+}
 
+
+/* margin = the space around an element's border */
+/* padding = the space between an element's border and the element's content */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+    background-color: #240536;
+}
+
+li {
+    float: left
+}
+
+a {
+    display: block;
+}
+
+li a:hover {
+    background-color: black;
 }
