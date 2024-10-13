@@ -3,3 +3,9 @@ body {
     background-image: linear-gradient(to bottom right, #9710e6, #541a54 );
     background-repeat: no-repeat;
 }
+
+h1 {
+
+    text-align: center;
+
+}
