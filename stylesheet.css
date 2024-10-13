@@ -45,6 +45,6 @@ li a:hover {
     background-color: grey;
 }
 
-.dojo {
+#dojo {
     transform: translate(120px,240px);
 }
