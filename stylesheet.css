@@ -8,6 +8,7 @@
 body {
     font-family: system-ui;
     background-image: linear-gradient(to bottom right, #9710e6, #541a54 );
+    background-position: top;
     background-repeat: no-repeat;
 }
 
