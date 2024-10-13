@@ -7,13 +7,14 @@
 
 body {
     font-family: system-ui;
+    background-image: linear-gradient(to bottom right, #9710e6, rgb(41, 41, 206)  );
+    background-repeat: no-repeat;
+    height: 30v;
 }
 
 h1 {
     text-align: center;
     color: white;
-    background-image: linear-gradient(to bottom right, #9710e6, #541a54 );
-    background-repeat: no-repeat;
 }
 
 
