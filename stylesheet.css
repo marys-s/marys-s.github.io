@@ -50,3 +50,7 @@ li a:hover {
 #dojo {
     transform: translate(120px,240px);
 }
+
+#info {
+    float: right
+}
