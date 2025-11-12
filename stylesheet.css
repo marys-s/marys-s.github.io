@@ -16,7 +16,7 @@ h1 {
 }
 
 header {
-    background-image: linear-gradient(to bottom right, #a200ff, rgb(41, 41, 206)  );
+    background-image: linear-gradient(to bottom right, #e6c11c, rgb(41, 41, 206)  );
     background-repeat: no-repeat;
 }
 
@@ -27,7 +27,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0; 
-    background-color: purple;
+    background-color: rgb(63, 2, 63);
     overflow: hidden;
 }
 
@@ -44,7 +44,7 @@ li a {
 }
 
 li a:hover {
-    background-color: grey;
+    background-color: rgb(255, 0, 0);
 }
 
 #dojo {
